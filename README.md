@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hey, I'm Ian Pham 👋
+
+Business student at The University of texas at Austin focused on leveraging analytics to create real world financial decisions.
+
+🏀 Currently: [Project, internship, research, leadership role, or course]  
+📊 Focus Areas: [Player tracking | Performance modeling | Revenue analytics | Fan engagement | Betting markets | etc.]  
+📍 Based in: [City, State]  
+🎯 Career Goal: [Front office | Analytics | Product | Data Science | etc.]  
+🔗 LinkedIn: [URL]  
+📬 Email: [Optional]
 
 <!--
 **Ian-Pham/Ian-Pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
